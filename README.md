@@ -1,5 +1,5 @@
 # Playtorium_Assignment
-## Kanate Boonsiri
+Kanate Boonsiri
 
 # Getting Started with Create React App
 
