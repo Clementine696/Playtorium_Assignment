@@ -4,5 +4,5 @@ This assaignment belongs to Kanate Boonsiri.
 # How to run
 npm start
 
-# vervel app
+# vercel app
 https://playtorium-assignment-eight.vercel.app
