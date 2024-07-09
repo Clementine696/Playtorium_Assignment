@@ -5,4 +5,4 @@ This assaignment belongs to Kanate Boonsiri.
 npm start
 
 # vercel app
-https://playtorium-assignment-eight.vercel.app
+https://playtorium-assignment-kanate-boonsiri.vercel.app
